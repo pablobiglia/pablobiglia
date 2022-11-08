@@ -1,6 +1,6 @@
 # Hello, people! Who am I?
 
-- 👋 Hi, I’m @pablobiglia 🧔‍
+- 👋 Hi, I’m @pablobiglia and I'm a teacher 🧔‍
 - 👀 I’m interested in Literature, TV shows 📺, games, books in general 📚 and 80s songs 🎵
 - 🌱 I’m currently learning a little bit about Programming 💻
 - 💞️ I’m looking to collaborate on teaching learning skills 👨‍🏫
